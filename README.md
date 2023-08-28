@@ -44,7 +44,9 @@
 - 構造体を使いシーンごとのテキストやキャラクターを管理しやすくしました。 
 - 関数に挑戦しメインループ自体を見やすくしました。
 - 文字送りやクロマキーの処理などWindowsAPIの機能を理解応用した機能を入れました。
-- Logの確認を出来るようにしました。<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage5.png" alt="Q&AImage5" title="Q&A5" width="350" height="300">
+- Logの確認を出来るようにしました。
+
+<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage5.png" alt="Q&AImage5" title="Q&A5" width="350" height="300">
 
 ## 自分がどのように頑張ったか
 - 習い始めたC言語をしっかりと自分の力に入れるために工程の節々で友人と意見を交換し合ったり、自分では知識が足りなかった部分を調べたり先生に教わりに出向いたりして作品を完成させました。
