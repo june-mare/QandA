@@ -34,6 +34,7 @@
 
 ## 終了方法
 　　Escキーを押して確認を押してください。
+![Q&AImage4](https://github.com/june-mare/QandA/blob/master/Q%26AImage4.png)    
 
 ## 工夫した点
 - セーブとロードを出来るようにし、続きからゲームが開始できます。
