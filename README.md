@@ -30,7 +30,8 @@
 
 ## 操作方法
 　　十字キーとEnterキーを使います、メニューを開くには右矢印を押してください。
-![Q&AImage1](https://github.com/june-mare/QandA/blob/master/Q%26AImage1.png)
+  
+<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage1.png" alt="Q&AImage1" title="Q&A1" width="200" height="200">
 
 ## 終了方法
 　　Escキーを押して確認を押してください。
