@@ -36,7 +36,7 @@
 ## 終了方法
 　　Escキーを押して確認を押してください。
 
-<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage3.png" alt="Q&AImage3" title="Q&A3" width="300" height="300">    
+<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage4.png" alt="Q&AImage4" title="Q&A4" width="300" height="300">    
 
 ## 工夫した点
 - セーブとロードを出来るようにし、続きからゲームが開始できます。
