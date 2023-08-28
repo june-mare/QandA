@@ -31,15 +31,17 @@
 ## 操作方法
 　　十字キーとEnterキーを使います、メニューを開くには右矢印を押してください。
   
-<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage1.png" alt="Q&AImage1" title="Q&A1" width="200" height="200">
+<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage1.png" alt="Q&AImage1" title="Q&A1" width="300" height="300">
 
 ## 終了方法
 　　Escキーを押して確認を押してください。
-![Q&AImage4](https://github.com/june-mare/QandA/blob/master/Q%26AImage4.png)    
+
+<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage3.png" alt="Q&AImage3" title="Q&A3" width="300" height="300">    
 
 ## 工夫した点
 - セーブとロードを出来るようにし、続きからゲームが開始できます。
 - Logの確認を出来るようにしました。
+<img src="https://github.com/june-mare/QandA/blob/master/Q&AImage5.png" alt="Q&AImage5" title="Q&A5" width="300" height="300">
 - テキストを一文字ずつ描画してしっかりと登場人物が話しているように見せるために工夫しました。
 - 構造体を使いシーンごとのテキストやキャラクターを管理しやすくしました。 
 - 関数に挑戦しメインループ自体を見やすくしました。
